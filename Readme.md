@@ -1,4 +1,4 @@
-# Rhythm-Aware PPG Signal Quality and Heart Rate Estimation
+# Rhythm-Aware PPG Signal Quality and Heart Rate Estimation (2025 for ESWA)
 
 This repository contains the implementation of our proposed framework for assessing PPG signal quality and estimating heart rate across varying cardiac rhythms using clinical data.
 
